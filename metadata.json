@@ -1,0 +1,8 @@
+{
+  "name": "Werkaholic AI",
+  "description": "The ultimate AI-powered productivity SaaS for tracking work, projects, and generating deep insights with Gemini. Manage tasks, analyze efficiency, and optimize your workflow.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
